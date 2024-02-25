@@ -25,7 +25,7 @@ text_sensor:
       name: '${friendly_name} - IP Address'
       icon: mdi:wifi
     ssid:
-      name: '${friendly_name} - Connected SSID'
+      name: '${friendly_name} - Povezan SSID'
       icon: mdi:wifi-strength-2
 
 sensor:
